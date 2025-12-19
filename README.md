@@ -1,1 +1,4 @@
-Hey! Check out my portfolio → https://iclaire.space/
+Hey! Wanna see my work? → <a href="https://iclaire.space/" target="_blank" rel="noopener noreferrer">
+  iclaire.space
+</a>
+
